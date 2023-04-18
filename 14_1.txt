@@ -1,0 +1,15 @@
+part 1
+1) HTTP stands for hyper text transfer protocol. It is one way the browser communicates  your code
+2) URL stands for Uniform Resource Locator. It is address or name for a website.
+3) DNS stands for domain name system. It is a server that holds all the ip addresses for domain names (ex. facebook.com)
+4) A query string is the ending part of the url that is the search parameters
+5) The two HTTP verbs are HTTP and HTTPS. They are differnet because HTTPS is more secure by using encryption
+6) An HTTP request is when a browser asks for a page on a server
+7) An HTTP response is when the server returns something or gives back an error
+8) An HTTP header is the meta data the server retruns. Ex. the languge of the content, the date, the status
+9) The client first checks the catch to see if its saved on the computer, then checks the internet provider
+then checkes with the DNS server for the page. If it still cant find the page then it shoots back an error.
+
+part 2
+1) curl https://icanhazdadjoke.com/search?term=pirate
+2) dig icanhazdadjoke.com + short
